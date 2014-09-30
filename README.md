@@ -1,0 +1,4 @@
+CobaltPods
+==========
+
+Cocoapods for cobalt
